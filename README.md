@@ -26,4 +26,4 @@
 #### Copy Pasters You Can Copy This But Must Give Credits ...
 
 ### Owner Of This Repository
-[![Brutal Rajput](https://telegra.ph/file/fcddea5c7025c9c8bdc78.jpg)](https://t.me/B_4_BRUTU_RAJPUT)
+[![Brutal Rajput](https://telegra.ph/file/96be714afc428d0095c57.jpg)](https://t.me/B_4_BRUTU_RAJPUT)

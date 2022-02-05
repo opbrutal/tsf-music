@@ -1,9 +1,9 @@
 {
-    "name": "AdityaPlayer",
-    "logo": "https://te.legra.ph/file/2e2ddeb33674ba956148f.jpg",
+    "name": "Brutal'Rajput",
+    "logo": "https://telegra.ph/file/fcddea5c7025c9c8bdc78.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/itsadityaxd/adityaplayer",
+    "repository": "https://github.com/opbrutal/adityaplayer",
     "stack": "container",
     "env": {
         "API_ID": {

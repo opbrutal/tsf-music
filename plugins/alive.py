@@ -41,7 +41,7 @@ async def start_(client: Client, message: Message):
 ┣★ Owner King    : [Brutal Rajput](https://t.me/b_4_brutu_rajput)
 ┣★ Owner Queen   : [Nikima](https://t.me/Attitude_girl_niki)
 ┣★ Owner Bestie  : [Barsa](https://t.me/Attitude_girl_barsa )
-┣★ About         : [About Me](https://t.me/about_brutu)
+┣★ About Owner        : [About Me](https://t.me/about_brutu)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ

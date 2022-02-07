@@ -33,25 +33,25 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/fcddea5c7025c9c8bdc78.jpg",
+        photo=f"https://telegra.ph/file/8e71217a281c15f73a306.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
+💥 ʜᴇʏ, 𝐓𝐒𝐅 𝐑𝐎𝐂𝐊𝐒 ʜᴇʀᴇ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ Owner King    : [Brutal Rajput](https://t.me/b_4_brutu_rajput)
-┣★ Owner Queen   : [Nikima](https://t.me/Attitude_girl_niki)
-┣★ Owner Bestie  : [Barsa](https://t.me/Attitude_girl_barsa )
-┣★ About Owner        : [About Me](https://t.me/about_brutu)
+┣★ ᴄʀᴇᴀᴛᴏʀ : [𝚂•4•𝚂𝙷𝙸𝚅](https://t.me/SHIVAMDEMON)
+┣★ ɢʀᴏᴜᴘ : [𝚂𝙴𝙲𝚁𝙴𝚃 𝚂𝙾𝙲𝙸𝙴𝚃𝚈](https://t.me/SECRET_CITTY)
+┣★ ɴᴇᴛᴡᴏʀᴋ : [𝚃𝚂𝙵 𝙽𝙴𝚃𝚆𝙾𝙺](https://t.me/TSFNETWORK)
+┣★ 🔥ᴏᴡɴᴇʀ😇› : [𝚃𝚂𝙵•𝚁𝙰𝙿𝚂𝚃𝙰𝚁](https://t.me/II_TSF_OWNER_II)
 ┗━━━━━━━━━━━━━━━━━┛
 
-💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/b_4_brutu_rajput) ...
+🔥ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ sᴏʟᴜᴛɪᴏɴ🔜
+ᴅᴍ ᴛᴏ ᴍᴇ[𝚃𝚂𝙵•𝚁𝙰𝙿𝚂𝚃𝙰𝚁](https://t.me/II_TSF_OWNER_II) ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ Owner Gf ❱ ➕", url=f"https://t.me/Attitude_girl_niki")
+                        "➕ ❰ ᴊᴏɪɴ ʜᴇʀᴇ ғᴏʀ Tɪᴍᴇᴘᴀss ❱ ➕", url=f"https://t.me/SECRET_CITTY")
                 ]
                 
            ]
@@ -59,16 +59,16 @@ async def start_(client: Client, message: Message):
     )
     
     
-@Client.on_message(commandpro(["/start", "/alive", "aditya"]) & filters.group & ~filters.edited)
+@Client.on_message(commandpro(["/start", "/alive", "Candy"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/84f683014788d109a489f.jpg",
+        photo=f"https://telegra.ph/file/3c190879a1301a29659c3.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🥰 Owner Bestie💞", url=f"https://t.me/Attitude_girl_barsa")
+                        "𝚃𝚂𝙵 𝙽𝙴𝚃𝚆𝙾𝚁𝙺", url=f"https://t.me/TSFNETWORK")
                 ]
             ]
         ),
@@ -78,13 +78,13 @@ async def start(client: Client, message: Message):
 @Client.on_message(commandpro(["repo", "#repo", "@repo", "/repo", "source"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/84f683014788d109a489f.jpg",
+        photo=f"https://telegra.ph/file/319ecc64d7c22862ca432.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💥 Owner 💞", url=f"https://t.me/b_4_brutu_rajput)")
+                        "ᴀsᴋ ғᴏʀ ʀᴇᴘᴏ 💞", url=f"https://t.me/SHIVAMDEMON")
                 ]
             ]
         ),
